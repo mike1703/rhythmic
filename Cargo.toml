@@ -7,3 +7,7 @@ description = "Maintain consistent timing with configurable overrun behavior."
 license = "MIT OR Apache-2.0"
 
 [dependencies]
+
+[lints.clippy]
+cargo = "warn"
+pedantic = "warn"
