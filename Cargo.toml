@@ -4,7 +4,15 @@ name = "rhythmic"
 version = "0.1.0"
 authors = ["Michael Kerscher <rust@kerscher-michael.de>"]
 description = "Maintain consistent timing with configurable overrun behavior."
+readme = "README.md"
+keywords = [
+    "interval",
+    "periodic",
+    "timer",
+]
+categories = ["date-and-time"]
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/mike1703/rhythmic"
 
 [dependencies]
 
